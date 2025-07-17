@@ -1,16 +1,15 @@
-# nigiri_splash_screen
+# NIGIRI
 
-A Flutter UI splash screen project.
+A single-screen splash sushi-themed UI with slide and fade animations.
 
-## Getting Started
+## Key take points:
+- Gained a better understanding how `Stack` and `Positioned` widgets works.
+- Learned how to integrate slide and fade animations for both image and text widgets.
 
-This project is a starting point for a Flutter application.
+## Preview
 
-A few resources to get you started if this is your first Flutter project:
+### Static Screenshot
+![Splash Screen](assets/images/output.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Animation
+![Splash Animation](assets/images/output-animation.gif)
